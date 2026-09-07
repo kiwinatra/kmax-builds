@@ -3,7 +3,7 @@
 // @namespace    http://tampermonkey.net/
 // @version      1.3.5
 // @description  Mod for max.ru with extra features: beta tester crown, photo metadata, hiding elements and analytics blocking
-// @author       kMax Team
+// @author       kiwinatra потемкин короче
 // @match        *://*.max.ru/*
 // @match        *://max.ru/*
 // @grant        none
