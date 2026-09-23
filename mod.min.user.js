@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         kMax Mod
 // @namespace    http://tampermonkey.net/
-// @version      1.5.4
+// @version      1.5.5
 // @description  Mod for max.ru with extra features: beta tester crown, photo metadata, hiding elements and analytics blocking
 // @author       kiwinatra потемкин короче
 // @match        *://*.max.ru/*
